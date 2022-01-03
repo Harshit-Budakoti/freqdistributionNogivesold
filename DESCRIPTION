@@ -1,0 +1,14 @@
+Type: Package
+Package: freqdistributionNogives
+Title: Automated Uniformly Grouped Distribution Data Framing and Cumulative Frequency Graph Plotting
+Version: 0.1.0
+Author: Harshit Budakoti
+Maintainer: Harshit Budakoti <budakotihb@gmail.com>
+Description: Input has to be in the form of vectors of lower class limits and upper class limits and frequencies; the output will give a frequency distribution table with cumulative frequency plot.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
